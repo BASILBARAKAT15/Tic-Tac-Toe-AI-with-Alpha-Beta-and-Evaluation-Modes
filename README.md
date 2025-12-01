@@ -51,7 +51,6 @@ Ensure tictactoe_dataset.csv is in the project folder (used for ML evaluation).
 
 🎮 How to Play
 Run the game:
-
 bash
 نسخ الكود
 python test.py
